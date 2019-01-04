@@ -1,0 +1,4 @@
+var and const can also create bindings, similar to let
+- var, short for variable, is pre-2015 JavaScript
+- rarely used in this book "because it has some confusing properties"
+
